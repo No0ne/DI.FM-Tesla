@@ -2,7 +2,7 @@
 
 /* # DI.FM-Tesla
 This is a small wrapper script which lets you add all DI.FM premium channels to your Teslas native music player via TuneIn.
-Use the Android/iOS TuneIn App to a the custom URL to this file to your favorites folder. */
+Use the Android/iOS TuneIn App to add the custom URL to this file to your favorites folder. */
 
 define('PLAYLIST', '
 
