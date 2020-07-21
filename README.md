@@ -1,4 +1,7 @@
 # DI.FM-Tesla
+
+CURRENTLY ONLY WORKS ON **2020.20.17 OR LOWER**!
+
 This is a small wrapper script which lets you add all DI.FM premium channels to your Teslas native music player via TuneIn.
 * Drop your DI.FM Playlist (including premium key) at the top of the PHP File (difm-tunein-wrapper.php).
 * Use the Android/iOS TuneIn App to add the custom URL to the PHP file on your webserver to your favorites folder.
